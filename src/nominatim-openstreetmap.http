@@ -1,0 +1,4 @@
+GET https://nominatim.openstreetmap.org/search?q=Aachen,Germany,52064&format=json&limit=1
+
+###
+GET https://nominatim.openstreetmap.org/search?q=Aachen&format=json&limit=1
